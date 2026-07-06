@@ -45,3 +45,6 @@ Through this project, I learned how to formulate and solve optimization problems
 
 OUTPUT  :
 
+<img width="726" height="131" alt="Image" src="https://github.com/user-attachments/assets/0db457cb-59ee-4e5a-af8f-ab97ba4738e9" />
+
+<img width="276" height="178" alt="Image" src="https://github.com/user-attachments/assets/593a2399-b2d6-4c04-b811-f76d29f1983d" />
